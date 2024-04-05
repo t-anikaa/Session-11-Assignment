@@ -66,5 +66,5 @@ Here, the script analyzes vegetation health in the Teknaf upazila using Landsat 
 
 
 *   [GEE link](https://code.earthengine.google.com/c018f961b67aa683679ae7f1294ee5dc)
-*   [Code file](https://github.com/t-anikaa/Session-11-Assignment/blob/main/Q&A%5B4%5D)
+*   [Code file](https://github.com/t-anikaa/Session-11-Assignment/blob/main/Q%26A%5B4%5D.js)
 ![Capture 04](https://github.com/t-anikaa/Session-11-Assignment/assets/161161157/90cf5cf8-4ed2-4088-86cd-714197c5dfa3)
