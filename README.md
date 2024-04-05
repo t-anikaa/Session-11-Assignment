@@ -37,7 +37,7 @@ I filtered Sentinel-2 imagery for Teknaf in 2023, selected the green (B3) and ne
 
 *   [GEE link](https://code.earthengine.google.com/8cefaba9b2968c4ad22597533329dec5)
 *   [Code file](https://github.com/t-anikaa/Session-11-Assignment/blob/main/Q%26A%5B2%5D.js)
-![Capture 2](https://github.com/t-anikaa/Session-11-Assignment/assets/161161157/63bb1934-bf5a-4747-b9a4-b7bb7210671e)
+![Capture 02](https://github.com/t-anikaa/Session-11-Assignment/assets/161161157/6e3935f7-f17c-4a27-919e-cae732b8ea09)
 
 
 
