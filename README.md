@@ -35,7 +35,7 @@ NDWI values range from -1 to 1:
 I filtered Sentinel-2 imagery for Teknaf in 2023, selected the green (B3) and near-infrared (B8) bands, calculated NDWI, and visualized it. This map facilitates the identification and mapping of water bodies, aiding in water resource management, environmental monitoring, and disaster response efforts for the region. Here are the links:
 
 
-*   [GEE link](https://code.earthengine.google.com/26541a1b19062abce06e8c9eb04306d9)
+*   [GEE link](https://code.earthengine.google.com/8cefaba9b2968c4ad22597533329dec5)
 *   [Code file](https://github.com/t-anikaa/Session-11-Assignment/blob/main/Q%26A%5B2%5D.js)
 ![Capture 2](https://github.com/t-anikaa/Session-11-Assignment/assets/161161157/63bb1934-bf5a-4747-b9a4-b7bb7210671e)
 
