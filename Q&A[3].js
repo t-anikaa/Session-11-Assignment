@@ -1,4 +1,3 @@
-var adm3 = ee.FeatureCollection("projects/ee-atahsinhaque20/assets/BGD_adm3");
 // *Make a NDSI map of your upazila by using Sentinel-2 imagery for 2021. 
 // *Upload the code, code link, and screenshot in your github repo. 
 // *Submit the repo link.
