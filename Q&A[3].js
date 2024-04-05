@@ -3,6 +3,7 @@ var adm3 = ee.FeatureCollection("projects/ee-atahsinhaque20/assets/BGD_adm3");
 // *Upload the code, code link, and screenshot in your github repo. 
 // *Submit the repo link.
 
+var adm3 = ee.FeatureCollection("projects/ee-atahsinhaque20/assets/BGD_adm3");
 //Filtering out desired upazila:
 var myRegion = adm3.filter(ee.Filter.eq("NAME_3", "Teknaf"));
 print(myRegion);
