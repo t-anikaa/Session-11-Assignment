@@ -56,7 +56,7 @@ By visualizing the NDSI map, we can identify and map snow and ice cover within t
 
 
 *   [GEE link](https://code.earthengine.google.com/0bd83d024fd66225f76fbe919640696b)
-*   [Code file](https://github.com/t-anikaa/Session-11-Assignment/blob/main/Q%26A%5B3%5D)
+*   [Code file](https://github.com/t-anikaa/Session-11-Assignment/blob/main/Q%26A%5B3%5D.js)
 ![Capture 03 PNG](https://github.com/t-anikaa/Session-11-Assignment/assets/161161157/bc816a32-46b9-4ffc-9651-439cb2c596cc)
 
 
