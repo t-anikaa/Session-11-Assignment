@@ -14,7 +14,7 @@ I filtered Landsat 9 imagery for Teknaf in 2022, selected NIR (Band 5) and red (
 
 
 *   [GEE link](https://code.earthengine.google.com/52d2fc35b844df6939d201c770f6bfa9)
-*   [Code file](https://github.com/t-anikaa/Session-11-Assignment/blob/main/Q%26A%5B1%5D)
+*   [Code file](https://github.com/t-anikaa/Session-11-Assignment/blob/main/Q%26A%5B1%5D.js)
 ![Capture 1 PNG](https://github.com/t-anikaa/Session-11-Assignment/assets/161161157/bce5c0d2-2296-4111-a869-a52aeef6aa5c)
 
 
