@@ -14,7 +14,9 @@ I filtered Landsat 9 imagery for Teknaf in 2022, selected NIR (Band 5) and red (
 
 
 *   [GEE link](https://code.earthengine.google.com/52d2fc35b844df6939d201c770f6bfa9)
-*   [Code file](https://github.com/t-anikaa/Session-11-Assignment/blob/main/Q%26A%5B1%5D) 
+*   [Code file](https://github.com/t-anikaa/Session-11-Assignment/blob/main/Q%26A%5B1%5D)
+![Capture 1 PNG](https://github.com/t-anikaa/Session-11-Assignment/assets/161161157/bce5c0d2-2296-4111-a869-a52aeef6aa5c)
+
 
 
 
@@ -35,6 +37,8 @@ I filtered Sentinel-2 imagery for Teknaf in 2023, selected the green (B3) and ne
 
 *   [GEE link](https://code.earthengine.google.com/26541a1b19062abce06e8c9eb04306d9)
 *   [Code file](https://github.com/t-anikaa/Session-11-Assignment/blob/main/Q%26A%5B2%5D)
+![Capture 2](https://github.com/t-anikaa/Session-11-Assignment/assets/161161157/63bb1934-bf5a-4747-b9a4-b7bb7210671e)
+
 
 
 **Q[3]: Make a NDSI map of your upazila by using Sentinel-2 imagery for 2021. Upload the code, code link, and screenshot in your github repo. Submit the repo link.**
@@ -53,6 +57,8 @@ By visualizing the NDSI map, we can identify and map snow and ice cover within t
 
 *   [GEE link](https://code.earthengine.google.com/0bd83d024fd66225f76fbe919640696b)
 *   [Code file](https://github.com/t-anikaa/Session-11-Assignment/blob/main/Q%26A%5B3%5D)
+![Capture 03 PNG](https://github.com/t-anikaa/Session-11-Assignment/assets/161161157/bc816a32-46b9-4ffc-9651-439cb2c596cc)
+
 
 **Q[4]: Calculate the maximum and minimum NDVI value of your NDVI map. Upload the code, code link, and screenshot in your github repo. Submit the repo link.**
 
@@ -61,3 +67,4 @@ Here, the script analyzes vegetation health in the Teknaf upazila using Landsat 
 
 *   [GEE link](https://code.earthengine.google.com/c018f961b67aa683679ae7f1294ee5dc)
 *   [Code file](https://github.com/t-anikaa/Session-11-Assignment/blob/main/Q&A%5B4%5D)
+![Capture 04](https://github.com/t-anikaa/Session-11-Assignment/assets/161161157/90cf5cf8-4ed2-4088-86cd-714197c5dfa3)
